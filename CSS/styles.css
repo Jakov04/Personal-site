@@ -129,7 +129,7 @@ body {
   }
 
 .btn {
-  background: #e27c1d
+  background: #e27c1d;
   background-image: -webkit-linear-gradient(top, #e27c1d, #c46e1d);
   background-image: -moz-linear-gradient(top, #e27c1d, #c46e1d);
   background-image: -ms-linear-gradient(top, #e27c1d, #c46e1d);
@@ -147,10 +147,10 @@ body {
 
 .btn:hover {
   background: #e27c1d;
-  background-image: -webkit-linear-gradient(top, #e27c1d, #212121);
-  background-image: -moz-linear-gradient(top, #e27c1d, #212121);
-  background-image: -ms-linear-gradient(top, #e27c1d, #212121);
-  background-image: -o-linear-gradient(top, #e27c1d, #212121);
-  background-image: linear-gradient(to bottom, #e27c1d, #212121);
+  background-image: -webkit-linear-gradient(top, #e27c1d, #ff8d24);
+  background-image: -moz-linear-gradient(top, #e27c1d, #ff8d24);
+  background-image: -ms-linear-gradient(top, #e27c1d, #ff8d24);
+  background-image: -o-linear-gradient(top, #e27c1d, #ff8d24);
+  background-image: linear-gradient(to bottom, #e27c1d, #ff8d24);
   text-decoration: none;
 }
